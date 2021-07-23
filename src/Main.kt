@@ -111,7 +111,6 @@ fun main() {
 
     buffer1.delete(3, 6) // 세번째 index 부터 여섯번째 index 의 바로 앞 까지 삭제합니다. (index 3~5 삭제)
     println("buffer1 : $buffer1")
-
 }
 
 
